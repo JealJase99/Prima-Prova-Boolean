@@ -1,0 +1,71 @@
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.blocco {
+  width: 700px;
+  border: 10px solid #0000;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  border-radius: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+header > img {
+  width: 30%;
+  margin: auto;
+}
+
+header > h2 {
+  font-family: monospace;
+  color: rgb(0, 255, 0);
+}
+
+nav {
+  background-color: rgb(0, 255, 0);
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+main {
+  text-align: left;
+  color: white;
+  font-family: sans-serif;
+}
+
+section > p {
+  line-height: 2px;
+}
+
+.Carica1 {
+  width: 300px;
+  border: 10px solid #0000;
+  background-color:  #ffad33;
+  margin: 0px;
+  border-radius: 5px 5px 5px 5px;
+  text-align: left;
+}
+
+.Carica2 {
+  width: 375px;
+  border: 10px solid #0000;
+  background-color: #53ff1a;
+  margin: 0px;
+  border-radius: 5px 5px 5px 5px;
+  text-align: left;
+}
+
+.Carica3 {
+  width: 100px;
+  border: 10px solid #0000;
+  background-color: #ff5050;
+  margin: 0px;
+  border-radius: 5px 5px 5px 5px;
+  text-align: left;
+}
